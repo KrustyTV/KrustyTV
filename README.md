@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @KrustyTV
+- 👀 I’m interested in programming games and playing Rust.
